@@ -1,0 +1,5 @@
+package com.algaworks.vendas.service;
+
+public class VendaService {
+
+}
